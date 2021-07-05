@@ -1,1 +1,3 @@
 # Computer-Vision
+Fatalities due to traffic delays of emergency vehicles such as ambulance & fire brigade is a huge problem. In daily life, we often see that emergency vehicles face difficulty in passing through traffic. So differentiating a vehicle into an emergency and non-emergency category can be an important component in traffic monitoring as well as self-drive car systems as reaching on time to their destination is critical for these services.
+Machine learning is applied to classify vehicle images as either belonging to the emergency vehicle or non-emergency vehicle category(Emergency vehicles usually includes police cars, ambulance and fire brigades)
